@@ -1,0 +1,29 @@
+:root {
+    /* Gradient Color */
+    --color: rgb(255,163,153);
+    --gradient: linear-gradient(90deg, rgba(255,163,153,1) 0%, rgba(255,163,153,1) 0%, rgba(255,77,151,1) 100%);
+
+    /* Neutral Colors */
+    --Pale-Blue: hsl(243, 100%, 93%)
+    --Grayish-Blue: hsl(229, 7%, 55%)
+    --Dark-Blue: hsl(228, 56%, 26%)
+    --Very-Dark-Blue: hsl(229, 57%, 11%)
+
+    /* Fonts */
+    --font-primary: font-family: 'Raleway', sans-serif;
+}
+
+html {
+    font-size:62.5%;
+}
+
+body {
+    font-size: 1.4rem;
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
