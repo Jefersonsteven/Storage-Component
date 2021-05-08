@@ -10,3 +10,4 @@ Users should be able to:
 
 # Link
 
+https://gfreyjs.github.io/Storage-Component/
