@@ -1,0 +1,82 @@
+.cards-container {
+    display: flex;
+}
+
+body {
+    background-image: url(../assets/images/bg-desktop.png);
+    background-size: 2120px;
+    background-repeat: no-repeat;
+    background-color: var(--Very-Dark-Blue);
+    background-position-y: 420px;
+}
+
+.card-container {
+    margin-right: 30px;
+}
+
+.cardtwo-container {
+    width: 480px;
+    height: 140px;
+    margin-top:69px;
+}
+
+.cardtwo--card-gb {
+    width: 35%;
+    height: 70px;
+    top: -45px;
+    right: 25px;
+}
+
+.cardtwo--card-gb figure {
+        position: absolute;
+        width: 20px;
+        height: 0px;
+        border-top: 25px solid transparent;
+        border-left: 25px solid whitesmoke;
+        transform: rotate(180deg);
+        right: 0px;
+        bottom: -17px;
+
+}
+
+.container-progress-gb {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.paragraph {
+    margin-right:200px;
+}
+
+.bar-progress--marker {
+    width: 3%;
+    height: 66%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.cardtwo-container--bar-progress {
+    width: 90%;
+    height: 20px;
+    background-color: var(--Very-Dark-Blue);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.bar-progress {
+    width: 75%;
+    height: 70%;
+    margin-left: 3px;
+    background: var(--color);
+    background: var(--gradient);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 3px;
+}

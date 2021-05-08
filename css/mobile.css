@@ -88,7 +88,7 @@ body {
 /* Estilizando la segunda card */
 
 .paragraph{
-    text-align: center;
+    text-align: start;
 }
 
 .cardtwo-container--bar-progress {
@@ -96,7 +96,6 @@ body {
     height: 20px;
     background-color: var(--Very-Dark-Blue);
     border-radius: 10px;
-    width: 80%;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -116,7 +115,7 @@ body {
 }
 
 .bar-progress--marker {
-    width: 6%;
+    width: 4.7%;
     height: 66%;
     background-color: white;
     border-radius: 10px;
