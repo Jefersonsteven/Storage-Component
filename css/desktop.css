@@ -4,10 +4,10 @@
 
 body {
     background-image: url(../assets/images/bg-desktop.png);
-    background-size: 2120px;
+    background-size: 2140px;
     background-repeat: no-repeat;
     background-color: var(--Very-Dark-Blue);
-    background-position-y: 420px;
+    background-position-y: 440px;
 }
 
 .card-container {
