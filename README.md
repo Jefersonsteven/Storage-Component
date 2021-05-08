@@ -8,7 +8,8 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Links
+### Screenshot
 
+![](./assets/Desktop.png)
 
 
